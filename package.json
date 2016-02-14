@@ -7,6 +7,10 @@
 	"engines": {
 		"vscode": "^0.10.7"
 	},
+    "bugs": {
+      "url": "https://github.com/buzzfrog/vscode-imagepreview/issues",
+      "email": "dagk@microsoft.com"  
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/buzzfrog/vscode-imagepreview"
