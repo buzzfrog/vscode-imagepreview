@@ -1,8 +1,9 @@
 {
 	"name": "imagepreview",
-	"displayName": "imagepreview",
+	"displayName": "Image Preview",
 	"description": "Preview of a Image Url",
-	"version": "0.0.1",
+	"version": "0.5.1",
+    "icon": "logo.png",
 	"publisher": "buzzfrog",
 	"engines": {
 		"vscode": "^0.10.7"
